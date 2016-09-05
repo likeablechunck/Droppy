@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 373f96296af6e0042be0696d27851b55
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Scraper005
+    100002: Scraper1_Pyramid
+    100004: Scraper1_Pyramid_Shadow
+    100006: Scraper2
+    100008: Scraper2_Shadow
+    100010: Scraper3
+    100012: Scraper3_Shadow
+    100014: Scraper4
+    100016: Scraper4_Shadow
+    100018: Scraper4_Shadow001
+    100020: //RootNode
+    100022: Sky001
+    100024: Scraper5
+    100026: Ground
+    100028: Scraper1
+    400000: Scraper005
+    400002: Scraper1_Pyramid
+    400004: Scraper1_Pyramid_Shadow
+    400006: Scraper2
+    400008: Scraper2_Shadow
+    400010: Scraper3
+    400012: Scraper3_Shadow
+    400014: Scraper4
+    400016: Scraper4_Shadow
+    400018: Scraper4_Shadow001
+    400020: //RootNode
+    400022: Sky001
+    400024: Scraper5
+    400026: Ground
+    400028: Scraper1
+    2300000: Scraper005
+    2300002: Scraper1_Pyramid
+    2300004: Scraper1_Pyramid_Shadow
+    2300006: Scraper2
+    2300008: Scraper2_Shadow
+    2300010: Scraper3
+    2300012: Scraper3_Shadow
+    2300014: Scraper4
+    2300016: Scraper4_Shadow
+    2300018: Scraper4_Shadow001
+    2300020: Scraper5
+    2300022: Ground
+    2300024: Scraper1
+    3300000: Scraper005
+    3300002: Scraper1_Pyramid
+    3300004: Scraper1_Pyramid_Shadow
+    3300006: Scraper2
+    3300008: Scraper2_Shadow
+    3300010: Scraper3
+    3300012: Scraper3_Shadow
+    3300014: Scraper4
+    3300016: Scraper4_Shadow
+    3300018: Scraper4_Shadow001
+    3300020: Scraper5
+    3300022: Ground
+    3300024: Scraper1
+    4300000: Scraper1_Pyramid
+    4300002: Scraper1_Pyramid_Shadow
+    4300004: Scraper2
+    4300006: Scraper2_Shadow
+    4300008: Scraper3
+    4300010: Scraper3_Shadow
+    4300012: Scraper4
+    4300014: Scraper4_Shadow
+    4300016: Scraper005
+    4300018: Scraper4_Shadow001
+    4300020: Scraper5
+    4300022: Scraper1
+    4300024: Ground
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
